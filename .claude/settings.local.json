@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.gracechehalis.com)",
+      "Bash(mkdir:*)",
+      "Bash(dir /b \"C:\\grace_church_website\")"
+    ]
+  }
+}
